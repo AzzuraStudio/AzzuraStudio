@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-👨‍💻 Name: AzzuraStudio  <br>🌍 Location: India  <br>🛠️ Expertise: Automation, AI, Ethical Hacking, and Software Development  <br>🎯 Focus: Building innovative solutions for the future  <br>🎮 Hobby: Gaming and Coding  <br>📧 Email: azzurastudio@gmail.com  <br>🌱 GitHub Member Since: 2021  <br>💻 Tech Stack: Python, JavaScript, Node.js, React, AI, Cybersecurity  <br>⚡ Goals: To create impactful software that drives change  <br>🎥 YouTube: AzzuraStudio  <br>📚 Learning: Constantly evolving in the world of tech  <br>
+👨‍💻 Name: AzzuraStudio  <br>🌍 Location: India  <br>🛠️ Expertise: Automation, AI, Ethical Hacking, and Software Development  <br>🎯 Focus: Building innovative solutions for the future  <br>🎮 Hobby: Gaming and Coding  <br>📧 Email: azzurastudio@gmail.com  <br>🌱 GitHub Member Since: December 13, 2024  <br>💻 Tech Stack: Python, JavaScript, Node.js, React, AI, Cybersecurity  <br>⚡ Goals: To create impactful software that drives change  <br>🎥 YouTube: AzzuraStudio  <br>📚 Learning: Constantly evolving in the world of tech  <br>
 
 
 ## 🌐 Socials:
